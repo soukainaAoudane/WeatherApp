@@ -1,1 +1,1 @@
-<img src="weather">
+<img src="weather.jpeg">
