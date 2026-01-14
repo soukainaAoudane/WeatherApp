@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="imageViewMeteo" type="id" />
+    <item name="textViewTempMax" type="id" />
+    <item name="listViewMeteo" type="id" />
+</resources>
